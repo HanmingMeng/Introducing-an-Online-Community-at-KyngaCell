@@ -1,3 +1,4 @@
 # Introducing-an-Online-Community-at-KyngaCell
 Project relating to CLV, Logistic Regression applied to User Retention and Revenue
+
 In this report, we explored our firm’s experiment of launching an online discussion community for game users to investigate the impact of this new feature. We compared the result of this experiment against three key metrics, user revenue, retention and customer lifetime value (CLV). We used difference-in-difference regression, logistic regression and linear regression to measure the significance and the magnitude of the effect of launching this community to these metrics. We then concluded that this experiment has successfully increased loyal users’ engagement and revenue, but without a practical impact on reducing churn rate. Finally, we made recommendations based on our findings to encourage every customer to their full potential lifetime value.
